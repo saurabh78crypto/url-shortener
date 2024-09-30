@@ -79,6 +79,7 @@ A simple and efficient URL shortener built with Node.js, Express, and MongoDB. T
   - urlCode: The code representing the short URL. 
 
 
+
 ## Installation
 
 1. Clone the repository:
@@ -101,6 +102,7 @@ EMAIL_USERNAME = your_email_user
 EMAIL_PASSWORD = your_email_password
 ```
 
+
 ## Usage
 
 1. Start the server:
@@ -109,7 +111,8 @@ EMAIL_PASSWORD = your_email_password
 ```
 2. Use Postman or any API client to test the API endpoints.
 
-## API Testing with Postman
+
+## Testing
 
 - You can test the API endpoints using the following Postman collection:
 [View Postman Collection](<https://web.postman.co/workspace/Public-Workspace~f6b50482-83e7-4d18-a5d6-8a88769fdbd6/collection/25343998-98fce306-9734-419a-ae98-b98fcf5c8de1?action=share&source=copy-link&creator=25343998>)
