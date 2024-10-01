@@ -97,7 +97,6 @@ PORT = 5000
 BASE_URL = http://localhost:5000/url
 JWT_SECRET = your_jwt_secret
 MONGODB_URI = your_mongodb_uri
-REDIS_URL = your_redis_url
 EMAIL_USERNAME = your_email_user
 EMAIL_PASSWORD = your_email_password
 ```
